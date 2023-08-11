@@ -1,0 +1,11 @@
+ 
+ <!-- to add repository in terminal start ===>  -->
+
+ >>git init
+ >>git remote add origin https://github.com/deepakmagare27/flipkart.git 
+   <!-- "https://github.com/deepakmagare27/flipkart.git" this URL has to change for every new project. This link you get from github.com after adding new repository -->
+
+>>git add .
+>>git commit -m "initial commit"
+>>git push origin master
+
